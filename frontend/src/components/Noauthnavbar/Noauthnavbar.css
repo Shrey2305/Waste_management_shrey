@@ -1,0 +1,21 @@
+
+.navtext{
+    color: green;
+    text-decoration:none;
+}
+
+
+.navtext:hover{
+    color: olivedrab;
+}
+
+
+.homeimg{
+    font-size: 10px;
+}
+
+
+.navcss
+{
+    height: 60px;
+}

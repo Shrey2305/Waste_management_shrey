@@ -1,0 +1,14 @@
+.nav1
+{
+    /* background-color:rgba(255, 59, 59, 0.800); */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}

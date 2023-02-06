@@ -1,0 +1,38 @@
+.C1{
+    width: 18rem;
+    margin: auto;
+    margin-top: 30px;
+    height: auto;
+    
+}
+
+.Info{
+    flex-direction: row;
+    padding: 0px 0 100px 0;
+
+}
+
+img{
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.inf{
+    text-align: center;
+    word-spacing: normal;
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+    font-size: 50px;
+    margin: 40px;
+    padding-top: 40px;
+}
+
+.information{
+background-image: linear-gradient(white,rgb(108, 179, 108));
+}
+
+.i1
+{
+    padding-top: 20px;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 1.5);
+}

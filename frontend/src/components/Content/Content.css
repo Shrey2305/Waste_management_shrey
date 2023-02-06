@@ -1,0 +1,84 @@
+.Content{
+    background-color: white;
+}
+
+.head{
+    text-align: center;
+    color:green;
+    font-weight:400;
+}
+
+.imge1{
+    border-radius: 115px;
+}
+
+
+.dataa{
+    padding: 50px;
+    text-align: center;
+    word-spacing: normal;
+    font-weight: bold;
+    color: green;
+    font-size: 30px;
+    margin: 100px 30px 100px 30px;
+    border-radius: 40px; 
+    border-style: ridge;
+    background-color: #dcdcdc;
+}
+
+.wwdh{
+    color: green;
+    text-align: center;
+    font-weight: 500;
+
+}
+
+.wwd
+{
+    padding: 25px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 100px 30px 100px 30px;
+    border-radius: 40px; 
+    border-style: ridge;
+    background-color: #dcdcdc;
+}
+
+
+
+.row{
+    padding: 10px;
+}
+
+#col21{
+    text-align: center;
+}
+
+#col22{
+    flex:10 0;
+    text-align: justify;
+}
+
+#col31,#col22{
+    width: 75%;
+    color: black;
+}
+#col31{
+    text-align: center;
+}
+
+
+@media (min-width: 768px){
+.col-md-3 {
+    /* flex: 0 0 auto; */
+    width: 25%;
+}
+}
+
+.lorem{
+    word-spacing: 5px;
+}
+
+
+

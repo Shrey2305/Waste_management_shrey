@@ -1,0 +1,44 @@
+.footer{
+    background-color:lightslategrey;
+    height: auto;
+    
+
+}
+
+#foot{
+    margin-top: 40px;
+    color: white;
+}
+.text{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: -3px;
+    font-family: 'Oswald', sans-serif;  
+}
+.logo2{
+    /* font-size: 25px;*/
+    height: 100px; 
+    text-align: center;
+    /* padding-left: 60px; */
+    padding-inline: 25px;
+}
+
+
+.c1{background-color: #1c2331}
+
+.c2{
+    background-color: #1c2331;
+    z-index: 1;
+}
+
+
+.c3{width: 60px; background-color: #7c4dff; height: 2px}
+
+.txt{
+    font-size: 12px;
+}
+
+.ftr{
+    margin-top: 40px;
+}
+
